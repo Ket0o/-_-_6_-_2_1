@@ -16,5 +16,10 @@ namespace Лабараторная_работа_6_задание_2
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Close();  // Закрывает форму при нажатии на кнопку "ОК"
+        }
     }
 }
