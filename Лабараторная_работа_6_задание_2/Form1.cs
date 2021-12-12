@@ -1,4 +1,18 @@
-﻿using System;
+﻿//Вьюгин К.В. - 187 cm - 70 kg
+//Киреев В.В. - 200 cm - 30 kg
+//Булкин П.В. - 300 cm - 300 kg
+//Папкин П.П. - 100 cm - 10 kg
+//Третяков К.В. - 187 cm - 70 kg
+//Стерлингов В.В. - 191 cm - 30 kg
+//Сидоров П.В. - 199 cm - 300 kg
+//Петров П.П. - 100 cm - 10 kg
+//Синичкин К.В. - 187 cm - 70 kg
+//Медведев В.В. - 201 cm - 30 kg
+//Погонин П.П. - 100 cm - 10 kg
+//Штефан П.В. - 211 cm - 300 kg
+
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
